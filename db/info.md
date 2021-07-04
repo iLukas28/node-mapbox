@@ -1,0 +1,1 @@
+Esta carpeta contiene el archivo .json de el historial de las busquedas realizadas.
